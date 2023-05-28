@@ -1,5 +1,4 @@
-//Thanks to Destroy & Dimed for the idea & Bhpsngum for code help
-//Based on Team Rumble from Fortnite
+//Rumble made with ships in MCST Mite shiptree
 var modifier = {
   map_size: 60,
   crystal_value: 0,
